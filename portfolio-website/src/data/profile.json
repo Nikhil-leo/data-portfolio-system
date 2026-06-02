@@ -1,0 +1,62 @@
+{
+  "name": "Nikhil P",
+  "title": "Data Analyst",
+  "tagline": "Turning complex datasets into decisions that drive business forward.",
+  "bio": "Results-driven Data Analyst with 3+ years of experience at PayPal and Capgemini, leveraging SQL, Python, Tableau, Power BI, AWS, Azure, Snowflake, and dbt to deliver financial and retail analytics solutions. Skilled in transaction analysis, customer behavior analytics, KPI reporting, forecasting, and data visualization.",
+  "location": "San Ramon, CA, USA",
+  "email": "nikhilparvatapuram001@gmail.com",
+  "github": "https://github.com/Nikhil-leo",
+  "linkedin": "https://www.linkedin.com/in/nikhil0180-data-analyst/",
+  "tableau": "https://public.tableau.com/app/profile/nikhil.parvatapuram/vizzes",
+  "resumeUrl": "/resume.pdf",
+  "skills": {
+    "languages": ["Python", "SQL", "Scala", "R", "SAS"],
+    "visualization": ["Tableau", "Power BI", "Matplotlib", "Seaborn", "ggplot2", "Advanced Excel"],
+    "databases": ["Snowflake", "PostgreSQL", "MySQL", "Oracle", "dbt"],
+    "tools": ["Jupyter Notebook", "VS Code", "PyCharm", "SSIS", "SSRS", "Informatica", "Git / GitHub / Bitbucket"],
+    "cloud": ["AWS", "Azure"],
+    "soft": ["KPI Analysis", "Forecasting & Modeling", "A/B Testing", "Hypothesis Testing", "Time Series Analysis", "Root Cause Analysis", "Stakeholder Reporting", "Agile / SDLC"]
+  },
+  "experience": [
+    {
+      "role": "Data Analyst",
+      "company": "PayPal, USA",
+      "period": "Aug 2024 – Present",
+      "bullets": [
+        "Optimized SQL queries and Snowflake warehouse tables processing 14 million financial records, improving reporting performance by 24%",
+        "Forecasted financial utilization and customer-risk trends using Scikit-learn across 3.6M customer records, improving demand planning accuracy by 21%",
+        "Implemented Tableau dashboards tracking revenue leakage, portfolio performance metrics, and customer transaction KPIs",
+        "Developed dbt transformation models and scalable data-modeling workflows within Agile delivery environments",
+        "Automated Python/Pandas preprocessing pipelines in AWS for transaction validation and financial data transformation"
+      ]
+    },
+    {
+      "role": "Data Analyst",
+      "company": "Capgemini, India",
+      "period": "May 2021 – Jun 2023",
+      "bullets": [
+        "Optimized SQL/MySQL reporting queries processing 9 million order records, improving retail dashboard performance by 19%",
+        "Developed Power BI dashboards tracking cart-conversion, fulfillment efficiency, inventory movement, and logistics KPIs",
+        "Monitored 3.1 million logistics events via root cause analysis, reducing shipment-delay escalations by 18%",
+        "Identified seasonal demand patterns with Matplotlib/Seaborn that improved promotional campaign engagement by 16%",
+        "Developed SSIS ETL pipelines and collaborative GitHub workflows supporting SDLC-driven analytics delivery"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S. in Business Analytics",
+      "school": "University of the Pacific, Stockton, CA",
+      "year": "2024"
+    },
+    {
+      "degree": "BBA in Finance & Analytics",
+      "school": "Indian Institute of Management and Commerce",
+      "year": "2021"
+    }
+  ],
+  "certifications": [
+    "Data Analytics Job Simulation — Deloitte Australia",
+    "Data Analytics & Visualization Job Simulation — Accenture North America"
+  ]
+}

@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --primary: #2563eb;
+  --accent:  #0d9488;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  @apply bg-slate-950 text-slate-100;
+}
+
+/* Utility: gradient text */
+.gradient-text {
+  @apply bg-gradient-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent;
+}
+
+/* Utility: glass card */
+.glass-card {
+  @apply bg-slate-800/60 backdrop-blur-sm border border-slate-700/50 rounded-xl;
+}
+
+/* Skill pill */
+.pill {
+  @apply text-xs font-medium px-3 py-1 rounded-full bg-blue-500/10 text-blue-300 border border-blue-500/20;
+}
+
+/* Section heading */
+.section-title {
+  @apply text-3xl md:text-4xl font-bold mb-4;
+}

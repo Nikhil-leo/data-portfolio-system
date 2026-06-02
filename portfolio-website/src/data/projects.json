@@ -1,0 +1,50 @@
+[
+  {
+    "id": "financial-transaction-analytics",
+    "title": "Financial Transaction & Risk Analytics",
+    "description": "Analyzed 14M+ financial transaction records in Snowflake to identify spending patterns, monitor portfolio performance, and detect revenue leakage. Built Tableau dashboards tracking KPIs for enterprise financial operations.",
+    "tags": ["Python", "SQL", "Tableau", "Snowflake", "AWS"],
+    "tools": ["Python", "SQL", "Snowflake", "Tableau", "dbt", "AWS", "Scikit-learn"],
+    "kpis": ["Revenue Leakage", "Portfolio Performance", "Customer Risk Score", "Transaction Volume"],
+    "dashboards": { "tableau": true, "powerbi": false },
+    "repoName": "financial-transaction-analytics",
+    "githubUrl": "https://github.com/Nikhil-leo/financial-transaction-analytics",
+    "tableauUrl": "https://public.tableau.com/views/your-workbook",
+    "powerbiUrl": "",
+    "image": "/projects/financial-preview.png",
+    "featured": true,
+    "date": "2025-01-01"
+  },
+  {
+    "id": "retail-fulfillment-analytics",
+    "title": "Retail Fulfillment & Supply Chain Analytics",
+    "description": "Analyzed 9M+ e-commerce order records and 3.1M logistics events to optimize fulfillment operations and reduce shipment delays by 18%. Built Power BI dashboards tracking cart conversion, inventory, and logistics KPIs.",
+    "tags": ["Python", "SQL", "Power BI", "Azure", "Excel"],
+    "tools": ["Python", "SQL", "MySQL", "Power BI", "Azure", "SSIS", "Advanced Excel"],
+    "kpis": ["Cart Conversion Rate", "Fulfillment Efficiency", "Shipment Delay Rate", "Inventory Turnover"],
+    "dashboards": { "tableau": false, "powerbi": true },
+    "repoName": "retail-fulfillment-analytics",
+    "githubUrl": "https://github.com/Nikhil-leo/retail-fulfillment-analytics",
+    "tableauUrl": "",
+    "powerbiUrl": "https://app.powerbi.com/view?r=your-report-id",
+    "image": "/projects/retail-preview.png",
+    "featured": false,
+    "date": "2023-06-01"
+  },
+  {
+    "id": "customer-risk-forecasting",
+    "title": "Customer Risk & Demand Forecasting",
+    "description": "Built Scikit-learn forecasting models across 3.6M customer records to predict financial utilization and risk trends, improving demand planning accuracy by 21% and resource allocation efficiency.",
+    "tags": ["Python", "Machine Learning", "SQL", "AWS"],
+    "tools": ["Python", "Scikit-learn", "Pandas", "NumPy", "SQL", "AWS"],
+    "kpis": ["Forecast Accuracy", "Demand Planning Error", "Risk Score", "Resource Utilization"],
+    "dashboards": { "tableau": false, "powerbi": false },
+    "repoName": "customer-risk-forecasting",
+    "githubUrl": "https://github.com/Nikhil-leo/customer-risk-forecasting",
+    "tableauUrl": "",
+    "powerbiUrl": "",
+    "image": "/projects/forecasting-preview.png",
+    "featured": false,
+    "date": "2024-06-01"
+  }
+]
