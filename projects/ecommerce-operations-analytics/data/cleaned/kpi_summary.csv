@@ -1,0 +1,11 @@
+kpi,value
+total_orders,99441.0
+delivered_orders,96478.0
+total_revenue,15419773.75
+avg_order_value,159.83
+avg_review_score,4.16
+avg_delivery_days,12.1
+on_time_delivery_rate,91.88
+total_customers,96096.0
+total_sellers,3088.0
+total_categories,72.0
